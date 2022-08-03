@@ -1,2 +1,2 @@
 # a-bike-rental-system
- A simple bike rental system with OOP
+Simple bike rental system with OOP
